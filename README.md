@@ -30,7 +30,7 @@ I'm a network engineer and cybersecurity enthusiast building modular labs, docum
 - **Cybersecurity Lab Build** – Modular setup with attacker/defender VMs and reproducible validation matrices.
 
 ## 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/kyla-wagoner)
+- 💼 [LinkedIn](http://linkedin.com/in/kyla-wagoner)
 - 🌐 [Portfolio](https://yourportfolio.com) *(insert your site if you have one)*
 - 🧠 Always open to collaboration, feedback, and new challenges.
 
