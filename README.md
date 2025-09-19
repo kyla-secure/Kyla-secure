@@ -13,7 +13,7 @@ I'm a network engineer and cybersecurity enthusiast building modular labs, docum
 - 📊 **Documentation Mastery**: Configs, command outputs, validation matrices, and screenshots—because if it’s not documented, it didn’t happen.
 
 ## 🎯 Current Goals
-- Earn Security+ and CySA+ certifactions  
+- Earn Security+ and CySA+ certifications  
 - Land an entry-level analyst role in NWA, Kansas City, or Austin  
 - Build a portfolio that screams “hire me” before you even scroll
 
