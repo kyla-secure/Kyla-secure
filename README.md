@@ -5,7 +5,7 @@ I'm a network engineer and cybersecurity enthusiast building modular labs, docum
 
 ## 🔧 Skills
 - Cisco Packet Tracer, VLANs, DHCP, Subnetting
-- Cybersecurity labs with Kali and Windows
+- Cybersecurity labs with Kali, Metasploitable, and Windows
 
 ## 🧠 What I Do
 - 🔐 **Cybersecurity Labs**: Virtualized environments with Kali, Windows, and vulnerable targets. Every step validated and snapshot-ready.
