@@ -14,7 +14,7 @@ I'm a network engineer and cybersecurity enthusiast building modular labs, docum
 
 ## 🎯 Current Goals
 - Earn Security+ and CySA+ certifications  
-- Land an entry-level analyst role in NWA, Kansas City, or Austin  
+- Land an entry-level analyst role in Austin, Denver, or Seattle...  
 - Build a portfolio that screams “hire me” before you even scroll
 
 ## 🛠️ Tech Stack
