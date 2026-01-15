@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 👋 Hey there, I'm Kyla
 
-I'm a network engineer and cybersecurity enthusiast building modular labs, documenting everything, and optimizing life one subnet at a time.
+I'm a Fullstack Cybersecurity Bootcmp student and tech enthusiast building modular labs, documenting everything, and optimizing life one subnet at a time.
 
 ## 🔧 Skills
 - Cisco Packet Tracer, VLANs, DHCP, Subnetting
@@ -14,7 +14,7 @@ I'm a network engineer and cybersecurity enthusiast building modular labs, docum
 
 ## 🎯 Current Goals
 - Earn Security+ and CySA+ certifications  
-- Land an entry-level analyst role in Austin, Denver, or Seattle...  
+- Land an entry-level analyst role in Austin, Phoenix, Denver, D.C., or Seattle...  
 - Build a portfolio that screams “hire me” before you even scroll
 
 ## 🛠️ Tech Stack
@@ -26,11 +26,18 @@ I'm a network engineer and cybersecurity enthusiast building modular labs, docum
 | Troubleshooting  | CLI tools, structured guides, diagnostic tests      |
 
 ## 📁 Featured Projects
-- 
+- Advent of Cyber 2025
+December 2025  
+Completed a month‑long series of defensive and offensive security challenges involving log analysis, web exploitation, and incident response.
+Skills: Linux CLI, web vulnerabilities, log parsing, regex, cryptography basics, technical documentation.
+
+- Fullstack Academy Capstone — Bandit CTF Walkthrough
+-   Researcher / Collaborator • January 2026 • Project Link  
+Developed a comprehensive walkthrough and instructional guide for Bandit Levels 0–34, teaching foundational cybersecurity concepts through hands‑on challenges. Analyzed each level’s objective, identified the underlying vulnerability or learning goal, and produced step‑by‑step explanations to support peer learning and future cohorts.
+Skills: Linux fundamentals, network interaction, encoding/decoding, compression analysis, cryptographic transformations, SSH keys, instructional documentation.
 
 ## 📫 Let’s Connect
 - 💼 [LinkedIn](http://linkedin.com/in/kyla-wagoner)
-- 🌐 [Portfolio](https://yourportfolio.com) *(insert your site if you have one)*
 - 🧠 Always open to collaboration, feedback, and new challenges.
 
 ---
