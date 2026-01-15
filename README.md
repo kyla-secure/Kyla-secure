@@ -32,7 +32,7 @@ Completed a month‑long series of defensive and offensive security challenges i
 Skills: Linux CLI, web vulnerabilities, log parsing, regex, cryptography basics, technical documentation.
 
 - Fullstack Academy Capstone — Bandit CTF Walkthrough
--   Researcher / Collaborator • January 2026 • Project Link  
+Researcher / Collaborator • January 2026  
 Developed a comprehensive walkthrough and instructional guide for Bandit Levels 0–34, teaching foundational cybersecurity concepts through hands‑on challenges. Analyzed each level’s objective, identified the underlying vulnerability or learning goal, and produced step‑by‑step explanations to support peer learning and future cohorts.
 Skills: Linux fundamentals, network interaction, encoding/decoding, compression analysis, cryptographic transformations, SSH keys, instructional documentation.
 
