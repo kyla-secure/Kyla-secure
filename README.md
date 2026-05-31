@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 👋 Hey there, I'm Kyla
 
-I'm a Fullstack Cybersecurity Bootcmp student and tech enthusiast building modular labs, documenting everything, and optimizing life one subnet at a time.
+I'm a Fullstack Cybersecurity Bootcmp alumni, Datacenter Technician for Akkodis on contract at Google's Pryor campus, and general tech enthusiast building modular labs, documenting everything, and optimizing life one subnet at a time.
 
 ## 🔧 Skills
 - Cisco Packet Tracer, VLANs, DHCP, Subnetting
